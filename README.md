@@ -11,9 +11,7 @@ Moonshot is platforming game in which the player collects stars to rack up point
 
 ## Getting Started
 
-To obtain a copy of the game, clone this repository by typing this into your terminal:
-
-`git clone https://github.com/KatieBullock/moonshot`
+Visit [https://katiebullock.itch.io/moonshot](https://katiebullock.itch.io/moonshot) to play the game in your browser.
 
 ## Playing the Game
 
