@@ -28,4 +28,4 @@ Click on the title screen to start the game. This game uses the arrow keys to mo
 
 - This is the first game I've ever created. It's a submission to the Game Off 2020 hosted by Github and Lee Reilly on itch.io. I'm grateful for the opportunity to have learned a new JavaScript framework!
 
-- Thank you to all of the wonderful artists that have shared their assets on itch.io!
+- Thank you to all of the wonderful artists that have shared their assets on itch.io for developers to use!
