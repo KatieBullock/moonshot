@@ -1,0 +1,10 @@
+{
+  "name": "moonshot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Katie Bullock",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatieBullock/moonshot.git"
+  }
+}
