@@ -11,51 +11,13 @@ Moonshot is platforming game in which the player collects stars to rack up point
 
 ## Getting Started
 
-These instructions will get a copy of the project up and running on your local machine.
+To obtain a copy of the game, clone this repository by typing this into your terminal:
 
-### Prerequisites
-
-Node.js is a JavaScript runtime engine. You will need to have the latest stable version of Node installed. If you already have Node.js installed, type `node -v` in your terminal. If you do not have Node installed, take a look at the next section to see how to install it.
-
-You will also need to have [Phaser](https://phaser.io) installed.
-
-### Installing
-
-#### For Mac
-
-1. In order to install Node.js, we recommend using Homebrew. [Homebrew](https://brew.sh/) is a package manager for Mac.
-
-   If you already have Homebrew installed, type `brew -v` in your terminal. Update Homebrew with `brew update` and then skip ahead to the next step.
-
-   To install Homebrew, type this into your terminal:
-
-   `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-
-2. To install Node.js, type this into your terminal:
-
-   `brew install node`
-
-3. To install Phaser, type this into your terminal:
-
-   `npm install phaser@3.24.1`
-
-4. To obtain a copy of the game, clone this repository by typing this into your terminal:
-
-   `git clone https://github.com/KatieBullock/moonshot`
-
-#### For Windows
-
-1. To install Node.js, go to [https://nodejs.org/en/](https://nodejs.org/en/) and click on the current version. Follow the provided steps to finish installation.
-
-2. To install the Phaser, type this into your Git Bash:
-
-   `npm install phaser@3.24.1`
-
-3. To obtain a copy of the game, clone this repository by typing this into your Git Bash:
-
-   `git clone https://github.com/KatieBullock/moonshot`
+`git clone https://github.com/KatieBullock/moonshot`
 
 ## Playing the Game
+
+Click on the title screen to start the game. This game uses the arrow keys to move the player. Press the up key to jump and the left and right keys to move to each side. Simply moving into the stars will collect them. When a round ends, click to play again. The game will keep track of your high score until you close the game.
 
 ## Authors
 
@@ -64,4 +26,6 @@ You will also need to have [Phaser](https://phaser.io) installed.
 
 ## Acknowledgments
 
--
+- This is the first game I've ever created. It's a submission to the Game Off 2020 hosted by Github and Lee Reilly on itch.io. I'm grateful for the opportunity to have learned a new JavaScript framework!
+
+- Thank you to all of the wonderful artists that have shared their assets on itch.io!
